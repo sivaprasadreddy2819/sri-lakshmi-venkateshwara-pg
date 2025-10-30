@@ -1,0 +1,24 @@
+PLACEHOLDER IMAGES FOR GALLERY
+
+This file serves as a placeholder for the gallery images.
+
+The following image files need to be uploaded to this directory:
+
+1. room1.jpg - Well-furnished single room
+2. room2.jpg - Double sharing room  
+3. common-area.jpg - Common living area
+4. dining.jpg - Dining area
+5. kitchen.jpg - Kitchen facility
+6. bathroom.jpg - Clean bathroom
+7. study-area.jpg - Study area
+8. building.jpg - PG building exterior
+9. terrace.jpg - Terrace area
+
+Instructions:
+- Replace this file by uploading actual JPG/PNG images
+- Use the filenames exactly as listed above
+- Recommended image dimensions: 800x600px or higher
+- Images will be displayed in the gallery.html page
+
+Note: This is a temporary placeholder file. Once actual images are uploaded,
+this file can be deleted.
